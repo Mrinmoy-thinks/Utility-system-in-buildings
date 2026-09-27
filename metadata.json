@@ -1,0 +1,8 @@
+{
+  "name": "ShadowGrid - Infrastructure Intelligence Platform",
+  "description": "Detect hidden utility failures and anomalies from existing data before infrastructure visibly fails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
